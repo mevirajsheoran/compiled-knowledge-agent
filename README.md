@@ -173,5 +173,5 @@ On Vercel, the app automatically:
 
 ## Demo
 
-- **Live URL:** [Vercel deployment link]
-- **Demo Video:** [Loom/video link]
+- **Live URL:** [[Vercel deployment link](https://compiled-knowledge-agent.vercel.app/)]
+
